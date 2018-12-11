@@ -23,5 +23,5 @@ fill(random(255),random(255),random(255));
 ellipse (150,150,30,30);
 
 noStroke();
-fill(random(255),random(255),random(255),random(255));
+fill(0,0,0,100);
 ellipse(60,270,200,50);}
